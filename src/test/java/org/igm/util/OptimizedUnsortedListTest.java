@@ -1,4 +1,4 @@
-package org.igm;
+package org.igm.util;
 
 import org.igm.util.OptimizedUnsortedList;
 

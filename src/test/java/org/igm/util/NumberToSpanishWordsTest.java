@@ -1,4 +1,4 @@
-package com.openbank.ocdframework.util;
+package org.igm.util;
 
 
 import static org.igm.util.NumberToSpanishWords.convert;
